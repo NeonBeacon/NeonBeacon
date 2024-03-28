@@ -8,5 +8,5 @@
 
 In my spare time I like to design labels for bottles, create wonderful fantasy or nature inspired 3D art works and I enjoy a good drink whilst doing these ; )! This is when I'm not looking after my 1 year old.
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
 
