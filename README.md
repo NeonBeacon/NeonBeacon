@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-**NeonBeacon/NeonBeacon** is a ✨ _special_ ✨ repository because its my first shared repository!✨✨✨
+NeonBeacon/NeonBeacon is a repository ✨ super special to me ✨ because it's my very first shared project!✨✨✨
 
-- 🌱 I’m currently _learning_ Javascript, HTML and CSS. This will soon be updated to "I'm currently **_amazing_** at Javascript, HTML and CSS."
+🌱 Right now, I’m getting the hang of Javascript, HTML, and CSS. But soon, this will be "I'm currently crushing it at Javascript, HTML, and CSS."
 
-- I am also quite handy when it comes to Graphic and 3D design, specifically when using Blender, Inkscape and GIMP. (The best things in life are ✨<sup>free</sup>✨)
+I’ve got some pretty nifty skills in Graphic and 3D design too, especially with Blender, Inkscape, and GIMP. (The best things in life are ✨<sup>free</sup>✨)
 
-In my spare time I like to design labels for bottles, create wonderful fantasy or nature inspired 3D art works and I enjoy a good drink whilst doing these ; )! This is when I'm not looking after my 1 year old.
+In my spare time, I love designing labels for bottles, creating awesome fantasy or nature-inspired 3D artwork, and enjoying a good Whisky or Rum ; )! Of course, that's when I'm not busy chasing after my 1-year-old!
 
 ![Neonbeacon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeonBeacon&show_icons=true&theme=transparent)
 
